@@ -111,7 +111,7 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Tnoob-dev/Trolololol
+<p><a href="https://heroku.com/deploy?template=https://github.com/Tnoob-dev/esotilinnodarisa2
 /tree/master)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
