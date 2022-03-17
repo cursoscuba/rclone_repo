@@ -111,7 +111,7 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Tnoob-dev/queproenhd
+<p><a href="https://heroku.com/deploy?template=https://github.com/Tnoob-dev/queproenhdd
 /tree/master)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
